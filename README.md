@@ -3,6 +3,7 @@
 A full-featured text-to-image generation app built on the latest open
 diffusion models, wrapped in a polished Streamlit UI. Built as a
 Generative AI portfolio project.
+
 Deploy link: https://text2image-studio-hqfiycjttdbebvmm7cjfaj.streamlit.app/
 
 ## What's inside
