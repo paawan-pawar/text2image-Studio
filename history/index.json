@@ -1,0 +1,15 @@
+[
+  {
+    "id": "e65e2e7d7ca0",
+    "filename": "e65e2e7d7ca0.png",
+    "prompt": "A beautiful landscape with mountains, lake, and sunset, highly detailed, 4k",
+    "negative_prompt": "extra fingers, blurry, low quality, lowres, jpeg artifacts, blurry, deformed, disfigured, extra limbs, bad anatomy, watermark, signature, text, oversaturated",
+    "model_key": "sdxl-turbo",
+    "seed": 1752696225,
+    "steps": 2,
+    "guidance_scale": 0.0,
+    "width": 1024,
+    "height": 1024,
+    "created_at": "2026-07-30T11:39:10.516475Z"
+  }
+]
